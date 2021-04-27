@@ -1,9 +1,9 @@
 # GA-schedule
 Thuật toán GA cho sắp xếp thời khóa biểu
 
-<img src="/image/Picture1.png"> 
+<img src="/Picture1.png"> 
 
-<img src="/image/Picture2.png">
+<img src="/Picture2.png">
 
 ## About
 
